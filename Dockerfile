@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.1
+FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:6c3836a9c998aa419ba5d9103a9534f534dbc1fcf4a960ccf55db521f9aa57e1
