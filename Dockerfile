@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:298b225d3f17e507257c7f9c82f6d24b07e939494aa849c45c744fcb51b94932
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/kafka-controller@sha256:a83035d575f4bea2c63cd87eb58a0cd014ada68f06f36eb0512387507613b0d3
