@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative-kafka-broker-receiver:76b29a57e5d4b8ae437c6d6a4e57df5d14ef81842799b3a4c55c563f7fb5930e
+FROM gcr.io/knative-releases/knative.dev/operator/cmd/webhook@sha256:d3a7da7499b84f334567eb54be248ca7a90e2de9aab60a24f0c6815911022d10
