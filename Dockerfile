@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:094ea7f60792550dd894253df0204cba7c3706be845299840f932faf05709a59
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka-broker/control-plane/cmd/kafka-controller@sha256:615b5f31fce310da43392848bee352e53f1ab78fe15db10734a0f5d6a6cab017
