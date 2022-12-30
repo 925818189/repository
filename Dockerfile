@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative-kafka-broker-dispatcher:v1.8.5
+FROM gcr.io/knative-releases/knative-kafka-broker-receiver:v1.8.5
